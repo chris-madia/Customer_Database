@@ -1,0 +1,38 @@
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-transform: capitalize;
+  margin: 20px;
+}
+
+.pic {
+  width: 200px;
+  margin: 10px;
+}
+
+.name {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  margin: 0 20px 0 20px;
+}
+
+.email {
+  text-align: center;
+  color: grey;
+}
+
+.cell {
+  text-align: center;
+}
+
+.location {
+  text-align: center;
+  color: grey;
+}

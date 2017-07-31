@@ -1,2 +1,2 @@
 # Customer_Database
-Customer database daily project
+this is the customer database project
